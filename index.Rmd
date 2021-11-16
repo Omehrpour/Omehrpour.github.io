@@ -1,0 +1,12 @@
+
+title: "ProjectWebsite"
+author: "Omid Mehrpour"
+date: "11/16/2021"
+output: html_document
+# Omid Mehrpour
+## About Me
+### Southern Methodist University M.S. Data Science student
+
+The other tabs represent work/analysis that I have completed. Please check them out!
+
+
